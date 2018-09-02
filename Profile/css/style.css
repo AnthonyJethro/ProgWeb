@@ -1,0 +1,120 @@
+
+body{
+	background-color: #999;
+}
+
+.about{
+	min-height: 1200;
+	background-color: #999;
+}
+
+.header{
+	min-height: 200;
+	background-color: black;
+}
+
+.header a{
+	color: #999;
+	min-width: 200;
+	display: inline-block;
+
+	font-size: 200%;
+}
+
+.header hr{
+	color: black;
+	background-color: black;
+	border-color: black;
+	height: 5px;
+}
+
+.emptyspace{
+	background-color: black;
+	min-height: 5px;
+}
+
+.emptyspace2{
+	background-color: #999;
+	min-height: 50px;
+}
+
+.jumbotron{
+	background-color: #999;
+}
+
+.jumbotron img{
+	border: 5px solid #666;
+	width: 400px;
+
+	background-color: #666;
+}
+
+.jumbotron h1{
+	padding-top: 50px;
+	color : #eee;
+}
+
+.jumbotron a{
+	color : #eee;
+}
+
+.jumbotron hr{
+	color: white;
+	size: 3px;
+}
+
+.about h1{
+
+	padding: 50px 0px 15px 0px;
+
+}
+
+.about table{
+	height: 50%
+}
+
+#about2 img{
+	width:100%;
+	padding: 50px 0px 50px ;
+	height: 50%;
+}
+
+
+.about3 img{
+	width:100%;
+	padding: 50px 0px 50px ;
+	height: 50%;
+
+}
+
+.about4 img{
+	width:100%;
+	padding: 50px 0px 50px ;
+	height: 50%;
+
+}
+
+#aboutcontact{
+	padding-top: 50px;
+	min-height: 250px;
+	background-color: black;
+}
+
+.aboutcontact h3{
+	color: white;
+}
+#aboutcontact a{
+	color: #999;
+}
+
+.contact p{
+	font-size: 25px;
+}
+
+.abouttext li{
+	font-size: 20px;
+}
+
+.abouttext p{
+	font-size: 20px;
+}

@@ -1,0 +1,48 @@
+$defaultfont:arial;
+$defaultcolor:lightyellow;
+
+
+body{
+	background-color:$defaultcolor;
+}
+
+.about{
+	min-height: 1200;
+	background-color: $defaultcolor;
+}
+
+.header{
+	min-height: 200;
+	background-color: lightyellow;
+}
+
+.header a{
+	color: darkgreen;
+	min-width: 200;
+	display: inline-block;
+
+	font-size: 200%;
+}
+
+.emptyspace{
+	height: 5px;
+	background-color: lightyellow;
+
+}
+
+.potato1 img{
+	width: 100%;
+	padding: 0px 0px 50px
+}
+
+.potatotext{
+p{
+	color: darkgreen;
+	font-size: 20px;
+}
+
+
+li{
+	color: darkgreen;
+	font-size: 20p
+}}
